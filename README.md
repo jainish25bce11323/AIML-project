@@ -18,7 +18,7 @@ A modern GUI-based dice rolling simulator built using **CustomTkinter**, enhance
 
 The AI is based on a simple statistical approach:
 
-- Stores previous dice rolls 📚
+- Stores previous dice rolls 📚 
 - Uses `Counter` to calculate frequency 📊
 - Predicts the **most frequently rolled number** 🔮
 
