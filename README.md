@@ -4,7 +4,7 @@ A modern GUI-based dice rolling simulator built using **CustomTkinter**, enhance
 
 ---
 
-## ✨ Features =
+## ✨ Features =>
 
 - 🎯 **Random Dice Roll** (1–6)
 - 🤖 **AI Prediction System**
