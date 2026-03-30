@@ -14,7 +14,7 @@ A modern GUI-based dice rolling simulator built using **CustomTkinter**, enhance
 
 ---
 
-## 🧠 How the AI Works =
+## 🧠 How the AI Works =>
 
 The AI is based on a simple statistical approach:
 
