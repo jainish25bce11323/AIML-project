@@ -1,6 +1,6 @@
 # 🎲 Dice Simulator with AI
 
-A modern GUI-based dice rolling simulator built using **CustomTkinter** enhanced with a simple AI that tracks roll history and predicts future outcomes.
+A modern GUI-based dice rolling simulator built using **CustomTkinter**, enhanced with a simple AI that tracks roll history and predicts future outcomes.
 
 ---
 
