@@ -40,7 +40,7 @@ The AI is based on a simple statistical approach:
 
 ## 🛠️ Requirements =>
 
-Make sure you have the following installed:
+Make sure you have the following installed on your device:
 
 - Python 3.x 🐍
 - `customtkinter`
